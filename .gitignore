@@ -42,3 +42,25 @@ leaderboard.json
 
 # PyInstaller
 *.spec
+# Website deployment files (server only)
+api/
+.well-known/
+well-known/
+robots.txt
+
+# Build artifacts
+*.icns
+*.ico
+*.exe
+*.app
+dist/
+build/
+*.spec
+
+# User data
+save.json
+leaderboard.json
+
+# Python
+__pycache__/
+*.py[cod]
