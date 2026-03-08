@@ -2,7 +2,7 @@
 
 > A production-ready, neon-styled Pong game with player vs CPU, animated UI, procedural sound, API integration, and local leaderboard.
 
-![PONG PRO Screenshot](https://pong.deewhy.ovh/assets/preview.png)
+![PONG PRO Screenshot](assets/preview.png)
 
 ## ✨ Features
 
